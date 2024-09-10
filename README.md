@@ -1,12 +1,12 @@
 # katie's first-webpage
 
 I am *a* senior **at** Bowdoin College.
-## I don't know what to say.
-#What is your favorite color?
+## H2 I don't know what to say.
+# H1 What is your favorite color?
 –blue
 – green
 – raspberry
 -gold
 -purple
 
-##My favorite color is **blue**
+## H2 My favorite color is **blue**
