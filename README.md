@@ -3,7 +3,7 @@
 I am *a* senior **at** Bowdoin College.
 ## I don't know what to say.
 #  What is your favorite color?
-–blue
+–blue 
 – green
 – raspberry
 -gold

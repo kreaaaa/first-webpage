@@ -1,0 +1,23 @@
+body{
+    text-align: center; /*Center-align the content*/
+}
+
+h1 {
+    color: rgb(112, 46, 153) 
+}
+
+h2{ 
+    color:rgb(51, 136, 153)
+}
+    
+ h3{ 
+        color: mediumpurple
+ }
+
+    img{
+        display: block;
+        margin:auto;
+        border:2px;
+        width:30%;
+        height: 30%;
+    }
